@@ -79,7 +79,7 @@ img {
 .main{
 
     width: 1000px;
-    height: 500px;
+    height: 600px;
     margin: auto;
     margin-top: 5px;
     background-color:white;
@@ -143,4 +143,18 @@ img {
 .website{
 
     background-color: violet;
+}
+
+.sales{
+
+    background-color: rgb(153, 227, 42);
+}
+
+
+#honors{
+
+    font-size: 20px;
+    background-color: azure;
+    text-align: center;
+    
 }
