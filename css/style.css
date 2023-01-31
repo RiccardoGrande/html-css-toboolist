@@ -52,12 +52,9 @@ img {
 
     width: 90px;
     height: 30px;
-    
     border-radius: 10%;
-    
     margin-top: 10px;
     position:absolute;
-    
     
     
 }
@@ -79,5 +76,29 @@ img {
 }
 
 
+.main{
+
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    margin-top: 5px;
+    background-color:white;
+    border-radius: 1%;
+    position:relative;
+
+}
 
 
+.indice{
+
+    margin-left: 80px;
+    padding-top: 40px;
+    font-size: 20px;
+    line-height: 1.6;
+
+}
+
+.da_fare{
+
+    margin-left: 80px;
+}
