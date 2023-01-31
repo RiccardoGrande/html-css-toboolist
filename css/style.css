@@ -4,6 +4,11 @@
 
 }
 
+header{
+
+    margin-top: 1rem;
+}
+
 
 
 img {
@@ -19,5 +24,6 @@ img {
     display: inline-block;
     width: 100px;
     font-weight: bold;
+    vertical-align: top;
 
 }
